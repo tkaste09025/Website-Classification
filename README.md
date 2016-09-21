@@ -9,3 +9,7 @@ I am attempting to use machine learning to help classify websites using content 
 1. Apply trained model from above to new dataset that has single sources and list sources from different categories (Senior Centers, Homeless Shelters, etc)
 2. Evaluate results
 3. Question: Do I need to build a classifier for each category or will this apply to all categories?
+
+I have attached the file that has successfully distinguished single sources websites from list of sources website. I am currently working on applying the classifier to a new and diverse dataset.
+
+Any help is greatly appreciated as I am new to the Machine Learning world!
